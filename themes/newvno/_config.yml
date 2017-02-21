@@ -1,0 +1,32 @@
+menu:
+  #Archives: /archives
+  #JAVA: alert("未开放")
+  #C#: alert("未开放")
+  #前端: alert("未开放")
+  #时#光机: /favourite/time.html
+  #我是: /aboutme
+rss: 
+description: 
+social:
+  weibo: http://weibo.com/233804566
+  github: https://github.com/duaicxx
+  stack_overflow: 
+  facebook: 
+  twitter: 
+  google_plus: https://plus.google.com/114544845107970781441 
+
+page_comment: false
+logo: /images/headimg_dl.jpg
+background:
+  cover: /images/kali-linux-wallpaper_654878112.jpg
+  color: #FB9C50
+
+archive_date_format: MMM DD
+fancybox: true
+
+duoshuo_shortname: 
+
+google_analytics: UA-92321957-1
+baidu_tongji: efc0a1d7fb38d50c9c03ed4108286414
+favicon: /images/wallhaven-58973.jpg
+
